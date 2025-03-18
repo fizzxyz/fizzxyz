@@ -29,17 +29,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ## Github Stats
 
-<img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 
-<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
-
-## Spotify Live View
-[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
 
