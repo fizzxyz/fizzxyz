@@ -12,7 +12,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
+<img src="https://template-ten-gilt.vercel.app/" />
 <ul>
   <li> Hafiz Atama Romadhoni </li>
   <li> Live At Perum Villa Hang Lekir, Baloi Permai, Batam Center </li>
