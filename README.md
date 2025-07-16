@@ -15,7 +15,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img src="https://template-ten-gilt.vercel.app/" />
 <ul>
   <li> Hafiz Atama Romadhoni </li>
-  <li> Live At Perum Villa Hang Lekir, Baloi Permai, Batam Center </li>
+  <li> Live At Perum Taman Mediterania, Baloi Permai, Batam Center </li>
   <li> 💻 I'm currently part of <a href="https://github.com/Prodi-TRPL">Teknologi Rekayasa Perangkat Lunak at Politeknik Negeri Batam</a> </li>
   <li> 🎓 Software Engineering from <a href="https://www.polibatam.ac.id/">Politeknik Negeri Batam</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
