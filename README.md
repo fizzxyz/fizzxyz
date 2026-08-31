@@ -29,17 +29,17 @@ Halo! Saya **Hafiz Atama Romadhoni**, seorang developer yang berfokus pada penge
 ### 🛠️ Skills & Tech Stack
 
 - **Languages:** Kotlin, Javascript, Python, SQL
-- **Mobile & Backend:** Android SDK, Jetpack Compose, Flask, Express.js
+- **SDK & Framework:** Android SDK, Jetpack Compose, Flask, Express.js, Laravel
 - **Hardware & IoT:** ESP32, ESP8266, Raspberry Pi 4, EasyEDA (PCB Design)
-- **Database & Tools:** PostgreSQL, SQLite, Git, Figma
-
+- **Database & Tools:** PostgreSQL, SQLite, Git, Figma, Yolo & Familiar With Object Storage (S3 AWS, CLOUDFLARE R2)
+- **miscellaneou:** Arr Stack🤫
 ---
 
 ### 💡 Fun Fact
 
 - 📡 Suka ngulik komponen iot, tapi komponennya mahal:v
 - ☕ Percaya project bisa selesai hanya dengan nyeduh kopi, hehe
-- 👷 In Progress with ML & Kubernetes
+- 👷 In Progress with C, ML & Kubernetes
 
 ---
 
