@@ -32,7 +32,7 @@ Halo! Saya **Hafiz Atama Romadhoni**, seorang developer yang berfokus pada penge
 - **SDK & Framework:** Android SDK, Jetpack Compose, Flask, Express.js, Laravel
 - **Hardware & IoT:** ESP32, ESP8266, Raspberry Pi 4, EasyEDA (PCB Design)
 - **Database & Tools:** PostgreSQL, SQLite, Git, Figma, Yolo & Familiar With Object Storage (S3 AWS, CLOUDFLARE R2)
-- **miscellaneou:** Arr Stack🤫
+- **Miscellaneous:** Arr Stack🤫
 ---
 
 ### 💡 Fun Fact
